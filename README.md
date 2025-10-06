@@ -16,10 +16,15 @@ Sum of fourth and fifth = 10100000
 Product of second and third = 123450000
 
 -------------------------Fibonacci-----------------------------
+
 Fibonacci 0 = 0
-Fibonacci 1 = 1
+
+Fibonacci 1 = 1 
+
 Fibonacci 2 = 1
+
 Fibonacci 3 = 2
+
 Fibonacci 4 = 3
 Fibonacci 5 = 5
 Fibonacci 6 = 8
